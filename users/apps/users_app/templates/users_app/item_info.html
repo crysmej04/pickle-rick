@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+        <form action="{% url 'index' %}" method="POST" class="form-horizontal">
+                {% csrf_token %}
+                <input class="btn btn-default" id="submitbutton" type="submit" value="Logout">
+            </form>
+            <br>
+        <form action="{% url 'success' %}" method="POST" class="form-horizontal">
+                {% csrf_token %}
+                <input class="btn btn-default" id="submitbutton" type="submit" value="Home">
+            </form>
+    </head>
+
+    <body>
+          <br>
+      <div class="container">
+            {%for item in data%}
+            {%if user.product == item.creator.product%}
+            <th><h2>{{item.product}}</h2></th>
+            {%endif%}
+            {%endfor%}
+            <br>
+          <h4>Other User's who have added this item</h4>
+          {%for item in data%}
+          {%for otherItems in items%}
+          {%if item.product == otherItems.product%}
+          {%if user.first_name != item.creator.first_name%}
+            <h5> {{otherItems.creator.first_name}}</h5>
+            {%endif%}
+            {%endif%}
+            {%endfor%}
+            {%endfor%}
+          <br>
+    </body>
+</html>

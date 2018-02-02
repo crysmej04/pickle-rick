@@ -1,0 +1,96 @@
+<html>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 50%;
+            }
+                
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+            }
+                
+        tr:nth-child(even) {
+            background-color: #dddddd;
+            }
+            </style>
+        <head>
+            <meta charset="utf-8">
+            <title>Adding a User</title>
+            <meta name="description" content="Login and Registration exercises for Django">
+            {% load staticfiles %}
+            <link rel="stylesheet" type="text/css" href="{% static 'users_app/css/styles.css' %}">
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        </head>
+        <body>
+            <div id="wrapper">
+                {% if messages %}
+                <ul class="list-group">
+                    {% for message in messages %}
+                    <li class="list-group-item list-group-item-success"><h2>{{ message }}</h2></li>
+                    {% endfor %}
+                    <li class="list-group-item list-group-item-success"></li>
+                </ul>
+                {% endif %}
+    
+                <form action="{% url 'index' %}" method="POST" class="form-horizontal">
+                    {% csrf_token %}
+                    <input class="btn btn-default" id="submitbutton" type="submit" value="Logout">
+                </form>
+            </div>
+            <h1>Welcome, {{user.first_name}}!</h1>
+            <h2>Your Wish List:</h2>
+            <table>
+                <tr>
+                  <th>Item</th>
+                  <th>Added By</th>
+                  <th>Date Added</th>
+                  <th>Action</th>
+                </tr>
+                <tr>
+
+                {%for item in items%}
+                {%if user.first_name == item.creator.first_name%}
+                <tr>
+                  <td><a href="/item_info/{{item.id}}">{{item.product}}</a></td>
+                  <td>{{item.creator.first_name}}</td>
+                  <td>{{item.date_added}}</td>
+                  <td>{{item.action}}   <a href="/delete/{{item.id}}">Remove from my Wishlist</a></td>
+                </tr>
+                {%endif%}
+                {%endfor%}
+                
+                </tr>
+              </table>
+              <h3><a href="new_item">Add Item</a></h3>
+              <br>
+              <h3>Other User's Wish List</h3>
+              <table>
+                    <tr>
+                      <th>Item</th>
+                      <th>Added by</th>
+                      <th>Date added</th>
+                      <th>Action</th>
+                    </tr>
+                    <tr>
+                    
+                    {%for item in items%}
+                    {%if user.first_name != item.creator.first_name%}
+                    <tr>
+                        <td><a href="/item_info/{{item.id}}">{{item.product}}</a></td>
+                        <td>{{item.creator.first_name}}</td>
+                        <td>{{item.date_added}}</td>
+                        <td>{{item.action}}<a href="/join/{{item.id}}">Add to my Wishlist</a></td>
+                    </tr>
+                    {%endif%}
+                    {%endfor%}
+                    
+    
+                    
+                    
+                    </tr>
+                  </table>
+        </body>
+    </html>

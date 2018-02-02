@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        {% load staticfiles %}
+        <link rel="stylesheet" type="text/css" href="{% static 'users_app/css/styles.css' %}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <form action="{% url 'index' %}" method="POST" class="form-horizontal">
+            {% csrf_token %}
+            <input class="btn btn-default" id="submitbutton" type="submit" value="Logout">
+        </form>
+        <br>
+        <form action="{% url 'success' %}" method="POST" class="form-horizontal">
+                {% csrf_token %}
+                <input class="btn btn-default" id="submitbutton" type="submit" value="Home">
+            </form>
+    <h1>Add a Trip</h1>
+</head>
+<body>
+        {% if messages %}
+        <ul class="list-group">
+            <li class="list-group-item list-group-item-danger">ATTENTION REQUIRED!</li>
+            {% for message in messages %}
+            <li class="list-group-item list-group-item-danger">{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    <form action="/add_item" method="POST" class="form-horizontal">
+        {% csrf_token %}
+        <h2>REGISTER</h2>
+        <div class="form-group">
+        <label class="col-sm-2 control-label">Add Item:</label>
+        <div class="col-sm-10">
+        <input type="text" name="product" class="form-control">
+        </div>
+        </div>
+        <input class="btn btn-default" id="addbutton" type="submit" value="Add">
+    </form>
+</body>
+</html>
