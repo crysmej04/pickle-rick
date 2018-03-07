@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body{
+            text-align: center;
+            margin-top: 15%;
+        }
+        #time_date{
+            border-style: groove;
+            width: 30%;
+            margin-left: 35%;
+        }
+    </style>
+    <head>
+        <meta charset='utf-8'>
+        <title>Hello!</title>
+    </head>
+    <body>
+        <h1>The current time and date:</h1>
+          @{ DateTime CurrentTime = DateTime.Now; }  
+        <div id="time_date"> 
+            <p>Date: @CurrentTime.ToString("MMM d, yyy") </p>
+            <p>Time: @CurrentTime.ToString("h:mm tt") </p>
+        </div>
+    </body>
+</html>

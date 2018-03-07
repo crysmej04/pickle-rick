@@ -1,0 +1,10 @@
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\obj\Debug\netcoreapp2.0\timedisplay.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\obj\Debug\netcoreapp2.0\timedisplay.AssemblyInfoInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\obj\Debug\netcoreapp2.0\timedisplay.AssemblyInfo.cs
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\bin\Debug\netcoreapp2.0\timedisplay.deps.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\bin\Debug\netcoreapp2.0\timedisplay.runtimeconfig.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\bin\Debug\netcoreapp2.0\timedisplay.runtimeconfig.dev.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\bin\Debug\netcoreapp2.0\timedisplay.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\bin\Debug\netcoreapp2.0\timedisplay.pdb
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\obj\Debug\netcoreapp2.0\timedisplay.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\timedisplay\obj\Debug\netcoreapp2.0\timedisplay.pdb
