@@ -1,0 +1,10 @@
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.deps.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.runtimeconfig.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.runtimeconfig.dev.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\bin\Debug\netcoreapp2.0\first_csharp.pdb
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.AssemblyInfoInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.AssemblyInfo.cs
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\first_csharp\obj\Debug\netcoreapp2.0\first_csharp.pdb
