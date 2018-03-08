@@ -1,0 +1,10 @@
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.deps.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.runtimeconfig.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.runtimeconfig.dev.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\bin\Debug\netcoreapp2.0\PokeInfo.pdb
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.AssemblyInfoInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.AssemblyInfo.cs
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\PokeInfo\obj\Debug\netcoreapp2.0\PokeInfo.pdb
