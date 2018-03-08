@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+#wrapper {
+    height: 600px;
+    width: 700px;
+    padding: 50px;
+    margin-left: 30%;
+    text-align: center;
+    background-image: linear-gradient(300deg, orange, white);
+}
+footer {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h3 {
+    text-align: center;
+    position: relative; 
+}
+.score {
+    display: inline-flex;
+    position: relative;
+    left: 10px;
+    width: 120px;
+    text-align: center;
+}
+#dachi {
+    border: 3px black solid;
+    width: 500px;
+    position: relative;
+    top: 20px; 
+    text-align: center;
+    height: 280px;
+    padding-top: 20px;
+    margin-left: 90px;
+}
+
+#dachiactions, #dachideathactions {
+    text-align: center;
+    position: relative; 
+    top: 30px; 
+}
+
+button {
+    width: 50px;
+    height: 20px;
+    box-shadow: 3px 3px 3px grey;
+}
+
+#dachifeedback {
+    font-size: .8em;
+}
+ 
+.dachidata {
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-left: 10px;
+} 
+
+#instruction {
+    font-size: .7em;
+    position: relative;
+    top: 50px;
+    text-align: center;
+}

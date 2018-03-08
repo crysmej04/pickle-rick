@@ -1,0 +1,10 @@
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.deps.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.runtimeconfig.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.runtimeconfig.dev.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\bin\Debug\netcoreapp2.0\dojodachi.pdb
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.AssemblyInfoInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.AssemblyInfo.cs
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\dojodachi\obj\Debug\netcoreapp2.0\dojodachi.pdb
