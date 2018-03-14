@@ -1,0 +1,10 @@
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfoInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.AssemblyInfo.cs
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.deps.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.runtimeconfig.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.runtimeconfig.dev.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\bin\Debug\netcoreapp2.0\QuotingDojo.pdb
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\QuotingDojo\obj\Debug\netcoreapp2.0\QuotingDojo.pdb
