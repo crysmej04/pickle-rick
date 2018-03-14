@@ -1,0 +1,10 @@
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\bin\Debug\netcoreapp2.0\passcode.deps.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\bin\Debug\netcoreapp2.0\passcode.runtimeconfig.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\bin\Debug\netcoreapp2.0\passcode.runtimeconfig.dev.json
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\bin\Debug\netcoreapp2.0\passcode.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\bin\Debug\netcoreapp2.0\passcode.pdb
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\obj\Debug\netcoreapp2.0\passcode.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\obj\Debug\netcoreapp2.0\passcode.AssemblyInfoInputs.cache
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\obj\Debug\netcoreapp2.0\passcode.AssemblyInfo.cs
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\obj\Debug\netcoreapp2.0\passcode.dll
+C:\Users\Crystal Mejia\Desktop\Coding Dojo\Week10\passcode\obj\Debug\netcoreapp2.0\passcode.pdb
